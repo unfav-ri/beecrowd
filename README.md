@@ -11,6 +11,16 @@ O objetivo deste repositório é compartilhar meus resultados e pensamentos sobr
 - **C**
 - **SQL**
 
+## Como Contribuir
+
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch (`git checkout -b feature/sua-feature`).
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
+4. Faça push para a branch (`git push origin feature/sua-feature`).
+5. Abra um Pull Request.
+
 ## Autor
 
 **R. Gonçalves**
